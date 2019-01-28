@@ -11,3 +11,6 @@ Input
 Output
 2013-07-10 02:52:49,-44.490947,171.220966,Pacific/Auckland,2013-07-10T14:52:49
 2013-07-10 02:52:49,-33.912167,151.215820,Australia/Sydney,2013-07-10T12:52:49
+
+
+[![Build Status](https://travis-ci.org/Vaisman/formatter.svg?branch=master)](https://travis-ci.org/Vaisman/formatter)
